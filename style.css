@@ -12,18 +12,15 @@ body {
     --text-primary-color: rgb(4, 70, 124);
 }
 
+
+/* Navigation Section Style  */
 .navigation {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 20px 0;
 }
-/* .logo {
-    width: 40%;
-}
-.nav-part {
-    width: 60%;
-} */
+
 .logo img {
     width: 100px;
     height: auto;
@@ -55,6 +52,9 @@ body {
     color: whitesmoke;
     border-radius: 5px;
 }
+
+
+/* Hero section Style  */
 
 .hero {
     position:relative;
