@@ -1,3 +1,4 @@
+/* Universal Selector  */
 * {
     margin: 0;
     padding: 0;
@@ -21,11 +22,13 @@ body {
     padding: 20px 0;
 }
 
+/* Logo Image  */
 .logo img {
     width: 100px;
     height: auto;
 }
 
+/* Navbar  */
 .nav-part ul {
     display: flex;
     justify-content: space-evenly;

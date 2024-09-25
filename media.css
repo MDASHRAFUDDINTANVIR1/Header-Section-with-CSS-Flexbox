@@ -5,29 +5,35 @@
         flex-direction: column;
         justify-content: center;
         align-items: center;
-        
     }
+
     .logo {
         margin-bottom: 25px;
     }
+
     .nav-part ul {
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
+
     .nav-part ul li {
         margin-bottom: 35px;
     }
+
     .hero {
         height: 100vh;
     }
+
     .hero-section-article h2 {
         font-size: 28px;
     }
+
     .hero-section-article h2{
         margin-bottom: 25px;
     }
+
     .hero-section-article p {
         margin-bottom: 45px;
     }
@@ -38,9 +44,11 @@
         width: 80%;
         margin: 0 auto;
     }
+
     .hero-section-article h2{
         margin-bottom: 25px;
     }
+
     .hero-section-article p {
         margin-bottom: 45px;
     }
@@ -50,6 +58,7 @@
     .logo {
         width: 45%;
     }
+    
     .nav-part {
         width: 55%;
     }
